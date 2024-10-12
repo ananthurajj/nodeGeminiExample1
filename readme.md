@@ -86,6 +86,7 @@ Because they make up everything!
 ## 🔗 Useful Links
 
  - [🌐 Gemini API Documentation](https://ai.google.dev/gemini-api/docs/text-generation?lang=node)
+ - [🌐 Create Gemini API KEY](https://aistudio.google.com/app/apikey)
  - [📦 npm: @google/generative-ai](https://www.npmjs.com/package/@google/generative-ai)
  - [📦 npm: dotenv](https://www.npmjs.com/package/dotenv)
 
